@@ -3,8 +3,7 @@
   <p>祝0821Java 前程似锦</p>
   <p>祝老师貌美如花</p>
   <p>最后一次修改</p>
-  <p>demo run</p>
-   <img src="http://img12.360buyimg.com/n1/s450x450_jfs/t1/142295/6/19866/63874/5fe4408eE401889c8/8f5c2b37676a2264.jpg"/>
+   <img src="https://pic-lib.oss-cn-shanghai.aliyuncs.com/wallpaper/81c028bf6b71252fab5daf649019f538.jpg"/>
   </div>
 </template>
 
